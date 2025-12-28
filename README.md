@@ -8,18 +8,6 @@
 **Mentor:** Amine Heddouche
 ---
 
-## Future Fixes and Enhancements
-
-- Add more robust error handling and user feedback for network/API failures
-- Implement advanced caching strategies (e.g., LRU/LFU) for larger datasets
-- Add user authentication and cloud sync for recipes and preferences
-- Improve accessibility and localization support
-- Enhance UI/UX with more animations and onboarding
-- Add support for push notifications and scheduled reminders
-- Integrate more external recipe APIs and allow user-submitted recipes
-- Optimize for performance and battery usage
-
-
 ## Concept Deep Dive: Caching Algorithms
 
 Caching algorithms are fundamental to computer science and software engineering, enabling systems to store frequently or recently accessed data for faster retrieval. In the context of mobile apps, caching is critical for:
@@ -190,6 +178,21 @@ sequenceDiagram
 		end
 		App-->>User: Show Recipes
 ```
+
+---
+
+
+
+## Future Fixes and Enhancements
+
+- Add more robust error handling and user feedback for network/API failures
+- Implement advanced caching strategies (e.g., LRU/LFU) for larger datasets
+- Add user authentication and cloud sync for recipes and preferences
+- Improve accessibility and localization support
+- Enhance UI/UX with more animations and onboarding
+- Add support for push notifications and scheduled reminders
+- Integrate more external recipe APIs and allow user-submitted recipes
+- Optimize for performance and battery usage
 
 ---
 
